@@ -3,7 +3,7 @@ Official repository of BIZ Token (BEP-20) – smart contract, docs, and whitepap
 # BIZ — BEP-20 Token on BNB Smart Chain
 
 **Contract address (BSC):** 0xa60f51cCd93586e97667da0f53Ea7f84A5Ef3313
-> Verified on BscScan: https://bscscan.com/token/0xYOUR_CONTRACT_ADDRESS
+> Verified on BscScan: https://bscscan.com/token/0xa60f51cCd93586e97667da0f53Ea7f84A5Ef3313
 
 - **Name / Symbol:** BIZ / BIZ  
 - **Decimals:** 18  
